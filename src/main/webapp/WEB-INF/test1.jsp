@@ -9,6 +9,10 @@
 <body>
 	<h1>test1 v3추가파일</h1>
 	<h2>pc2 작업!!!!</h2>
+<<<<<<< HEAD
 	<p>pc2 추가작업</p>
+=======
+	<h3>pc1 추가작업</h3>
+>>>>>>> branch 'master' of https://github.com/sehokim123/testRepository.git
 </body>
 </html>
