@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>test2 작업</h2>
+	<h2>새파일 입니다!</h2>
+	<p>branch2 작업내용 </p>
 </body>
 </html>
